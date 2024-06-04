@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamazizbohra
 - 👀 I’m interested in building products
-- 🌱 I’m currently learning React & NestJs
+- 🌱 I’m currently learning NextJs
 - 💞️ I’m looking to collaborate on Open-Source projects
 - 📫 How to reach me
   - LinkedIn: https://linkedin.com/in/imazizbohra/
